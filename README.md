@@ -43,6 +43,7 @@ Your repository should include relevant information for a student to reproduce t
 - Use APIs when relevant to reduce the raw data needing organization and storage. Please be sure to clearly explain how to use the API in the code template (including how to obtain keys, and how to configure the query)
 - Use relative path structures and project-oriented workflows when possible (e.g., building relative paths with 'here' in R, rather than less replicable tools like `setwd()` )
 - Include documentation on versions and dependencies. For example, this could mean adding a `requirements.txt` file for Python workflows, or adding relevant installations  such as:
+
 For Python:
 ```console
 ! pip install census
